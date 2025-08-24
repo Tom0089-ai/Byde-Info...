@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Byde - Informatik Startup</title>
+    <style>
+        body {
+            background-color: #003366; /* Marineblau */
+            color: #F5F5DC; /* Beige Schrift */
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        h1 {
+            font-size: 3em;
+        }
+        p {
+            font-size: 1.2em;
+            max-width: 800px;
+            margin: 20px auto;
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #002244;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Byde</h1>
+        <p>Innovatives Informatik-Startup für moderne Softwarelösungen.</p>
+    </header>
+
+    <main>
+        <section>
+            <p>Bei Byde entwickeln wir intelligente Tools für Unternehmen und Privatpersonen. Unser Fokus liegt auf Effizienz, Sicherheit und Zukunftstechnologien. Wir setzen auf klare Strukturen, innovative Ansätze und Kundennähe.</p>
+        </section>
+
+        <section>
+            <p>Unsere Mission: Technik einfach, schnell und zuverlässig nutzbar machen. Ob Webentwicklung, Apps oder KI-Lösungen – wir bringen Ideen zum Leben.</p>
+        </section>
+    </main>
+
+    <footer>
+        &copy; 2025 Byde. Alle Rechte vorbehalten.
+    </footer>
+</body>
+</html>
